@@ -30,9 +30,3 @@
 切换端口或者修改数据库、shiro配置信息进入application.yml文件修改
 
 管理员账号：system  密码：123456 验证码输入：注意验证码字母要大写
-
-## 功能展示：
-
-登录界面：![登录界面.png](https://s2.loli.net/2022/08/03/RQvBPIWNL1pVyeh.png)
-
-功能界面：![功能界面.png](https://s2.loli.net/2022/08/03/gKi8TM52HoaR4lu.png)
